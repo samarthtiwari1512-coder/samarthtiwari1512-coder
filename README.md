@@ -124,17 +124,6 @@ An NLP-driven backend service for generating concise, structured summaries from 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 I'm always open to collaborating on **data visualization**, **AI/ML projects**, or **open-source contributions**.
@@ -143,11 +132,3 @@ I'm always open to collaborating on **data visualization**, **AI/ML projects**, 
 > 📍 Bhopal, India
 
 ---
-
-<div align="center">
-
-*"Data has a story — design makes it worth telling."*
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
-
-</div>
